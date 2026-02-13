@@ -42,15 +42,6 @@ Currently, I'm deepening my knowledge in **Test Automation**.
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nico-Kelly&show_icons=true&theme=radical&hide=issues,contribs" height="150" alt="Nicolas Kelly's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Kelly&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kellyqa/)
