@@ -40,7 +40,7 @@ Currently, I'm deepening my knowledge in **Test Automation**.
 *A small test with playwright automating a simple login test.*
 * **Tech:** Python, Pytest, Playwright.
 * **Key Learnings:** AAA Pattern (Arrange - Act - Assert) and Web Locator Strategies.
-* 
+  
 📌 **[Python Socket Communication](https://github.com/Nico-Kelly/UDP-Server-With-CRC-Verification)**
 *A client-server application testing how UDP and CRC verification works*
 * **Tech:** Python (Socket library), Threading.
