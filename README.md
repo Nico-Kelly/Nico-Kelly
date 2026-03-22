@@ -29,12 +29,15 @@ Currently, I'm deepening my knowledge in **Test Automation**.
 
 ### 🚀 Featured Projects
 
+📌 **[DuckDuckGo UI Test Automation](https://github.com/Nico-Kelly/duckduckgo_selenium_testing)**
+*A robust automated UI testing framework for the DuckDuckGo search engine applying industry standards.*
+* **Tech:** Python, Selenium WebDriver, Pytest, Pipenv.
+* **Key Learnings:** Page Object Model (POM) architecture, handling dynamic React elements with Explicit Waits, and Pytest fixture management.
 
 📌 **[ATM Simulator (Python)](https://github.com/Nico-Kelly/OOP-ATM-Practice)**
 *A console-based ATM simulator applying OOP concepts and Unit Testing.*
 * **Tech:** Python, Pytest.
 * **Key Learnings:** Class structure, error handling, and test coverage.
-
 
 📌 **[Small Playwright UI Test (Python)](https://github.com/Nico-Kelly/small-playwright-ui-test)**
 *A small test with playwright automating a simple login test.*
@@ -45,6 +48,13 @@ Currently, I'm deepening my knowledge in **Test Automation**.
 *A client-server application testing how UDP and CRC verification works*
 * **Tech:** Python (Socket library), Threading.
 * **Key Skills:** Handling concurrent connections, data transmission, and network protocols.
+
+### 🚧 Currently Building
+
+📌 **[AutoJob Scraper](https://github.com/Nico-Kelly/job-scraper-selenium)**
+*A web scraping automation bot designed to fetch QA Junior job postings from LinkedIn and ZonaJobs, automatically logging them into a Google Sheets CRM.*
+* **Tech:** Python, Selenium, Google Sheets API.
+* **Focus:** Advanced DOM traversal, data extraction, and third-party API integration.
 
 ---
 
