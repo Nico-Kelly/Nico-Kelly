@@ -3,7 +3,7 @@
 ### 👨‍💻 QA Automation Trainee | Software Development Student
 Based in Buenos Aires, Argentina 🇦🇷
 
-I'm a passionate **Software Development Student** (National University of Pilar) transitioning from a solid background in customer service to the IT world. My focus is on **Quality Assurance**, **Test Automation**, and **Python Development**.
+I'm a passionate **Software Development Student** (Universida Nacional de Pilar) transitioning from a solid background in customer service to the IT world. My focus is on **Quality Assurance**, **Test Automation**, and **Python Development**.
 
 Currently, I'm deepening my knowledge in **Test Automation**.
 
