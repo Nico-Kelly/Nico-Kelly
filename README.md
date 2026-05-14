@@ -27,6 +27,13 @@ Currently, I'm deepening my knowledge in **Test Automation**.
 
 ---
 
+### 🚧 Currently Building
+
+📌 **[AutoJob Scraper](https://github.com/Nico-Kelly/job-scraper-selenium)**
+*A web scraping automation bot designed to fetch QA Junior job postings from LinkedIn and ZonaJobs, automatically logging them into a Google Sheets CRM.*
+* **Tech:** Python, Selenium, Google Sheets API.
+* **Focus:** Advanced DOM traversal, data extraction, and third-party API integration.
+
 ### 🚀 Featured Projects
 
 📌 **[DuckDuckGo UI Test Automation](https://github.com/Nico-Kelly/duckduckgo_selenium_testing)**
@@ -48,13 +55,6 @@ Currently, I'm deepening my knowledge in **Test Automation**.
 *A client-server application testing how UDP and CRC verification works*
 * **Tech:** Python (Socket library), Threading.
 * **Key Skills:** Handling concurrent connections, data transmission, and network protocols.
-
-### 🚧 Currently Building
-
-📌 **[AutoJob Scraper](https://github.com/Nico-Kelly/job-scraper-selenium)**
-*A web scraping automation bot designed to fetch QA Junior job postings from LinkedIn and ZonaJobs, automatically logging them into a Google Sheets CRM.*
-* **Tech:** Python, Selenium, Google Sheets API.
-* **Focus:** Advanced DOM traversal, data extraction, and third-party API integration.
 
 ---
 
