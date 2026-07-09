@@ -30,6 +30,11 @@ Currently, I'm deepening my knowledge in **API Testing**, **Test Automation**, a
 
 ---
 
+### 🏆 Certifications
+
+🎓 **AI Fundamentals (257 Hours)** | *Guayerd & IBM SkillsBuild* (Jan 2026)
+Solidified core concepts in Artificial Intelligence, data processing, and modern technological frameworks.
+
 ### 🚧 Currently Building
 
 📌 **[Target Analyzer - API Gateway (Búnker Central)](https://github.com/Nico-Kelly/target-analyzer)**
