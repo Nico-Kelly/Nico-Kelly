@@ -6,6 +6,7 @@ Based in Buenos Aires, Argentina 🇦🇷
 I'm a passionate **Software Development Student** (Universidad Nacional de Pilar) transitioning from a solid background in customer service to the IT world. My focus is on **Quality Assurance**, **Test Automation**, and backend API development.
 
 Currently, I'm deepening my knowledge in **API Testing**, **Test Automation**, and creating resilient backend architectures.
+Also Learning some front-end development :-) . 
 
 ---
 
