@@ -1,12 +1,11 @@
 # Hi there! I'm Nicolas Kelly 👋
 
-### 👨‍💻 QA Automation Trainee | Software Development Student
-Based in Buenos Aires, Argentina 🇦🇷
+### 👨‍💻 QA Automation & Backend Developer | Software Development Student
+Based in Buenos Aires, Argentina 🇦🇷 | 🗣️ English C1
 
-I'm a passionate **Software Development Student** (Universidad Nacional de Pilar) transitioning from a solid background in customer service to the IT world. My focus is on **Quality Assurance**, **Test Automation**, and backend API development.
+I'm a **Software Development Student** (Universidad Nacional de Pilar) building a robust profile at the intersection of **Quality Assurance** and **Backend Architecture**. 
 
-Currently, I'm deepening my knowledge in **API Testing**, **Test Automation**, and creating resilient backend architectures.
-Also Learning some front-end development :-) . 
+My focus is on creating resilient REST APIs, implementing automated testing frameworks (TDD/POM), and mastering relational databases. I thrive on ensuring software quality from the database architecture up to the final user interface.
 
 ---
 
@@ -17,11 +16,12 @@ Also Learning some front-end development :-) .
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 **QA & Testing**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Tools & OS**
@@ -36,36 +36,29 @@ Also Learning some front-end development :-) .
 🎓 **AI Fundamentals (257 Hours)** | *Guayerd & IBM SkillsBuild* (Jan 2026)
 Solidified core concepts in Artificial Intelligence, data processing, and modern technological frameworks.
 
-### 🚧 Currently Building
-
-📌 **[Target Analyzer - API Gateway (Búnker Central)](https://github.com/Nico-Kelly/target-analyzer)**
-*An OSINT-simulating REST API acting as a Gateway to orchestrate external microservices, normalize data, and deploy security protocols.*
-* **Tech:** Node.js, Express, Jest, Supertest.
-* **Focus:** QA Automation (Mocking dependencies), API integration (Fetch/Timeout controllers), and defensive backend architecture (Strict JSON Contracts & Error Handling).
-
-📌 **[AutoJob Scraper](https://github.com/Nico-Kelly/job-scraper-selenium)**
-*A web scraping automation bot designed to fetch QA Junior job postings from LinkedIn and ZonaJobs, automatically logging them into a Google Sheets CRM.*
-* **Tech:** Python, Selenium, Google Sheets API.
-* **Focus:** Advanced DOM traversal, data extraction, and third-party API integration.
-
 ---
 
 ### 🚀 Featured Projects
 
-📌 **[DuckDuckGo UI Test Automation](https://github.com/Nico-Kelly/duckduckgo_selenium_testing)**
-*A robust automated UI testing framework for the DuckDuckGo search engine applying industry standards.*
-* **Tech:** Python, Selenium WebDriver, Pytest, Pipenv.
-* **Key Learnings:** Page Object Model (POM) architecture, handling dynamic React elements with Explicit Waits, and Pytest fixture management.
+📌 **[UFix Backend](https://github.com/Nico-Kelly/ufix-backend)**
+*A robust REST API designed for user and service management, featuring strict access controls and relational data modeling.*
+* **Tech:** Node.js, Express, PostgreSQL, Prisma ORM, JWT.
+* **Focus:** Backend architecture, role-based authentication, database normalization, and secure endpoint design.
 
-📌 **[Small Playwright UI Test (Python)](https://github.com/Nico-Kelly/small-playwright-ui-test)**
-*A small test with playwright automating a simple login test.*
-* **Tech:** Python, Pytest, Playwright.
-* **Key Learnings:** AAA Pattern (Arrange - Act - Assert) and Web Locator Strategies.
-  
-📌 **[ATM Simulator & Network Protocols](https://github.com/Nico-Kelly/OOP-ATM-Practice)**
-*A dual-focus repository showcasing Object-Oriented Programming via an ATM simulator and low-level network communication (UDP Server with CRC Verification).*
-* **Tech:** Python, Pytest, Socket Library.
-* **Key Learnings:** OOP Class structures, unit testing, concurrent connections, and data transmission protocols.
+📌 **[DuckDuckGo UI Test Automation](https://github.com/Nico-Kelly/duckduckgo_selenium_testing)**
+*An automated UI testing framework for the DuckDuckGo search engine applying industry testing standards.*
+* **Tech:** Python, Selenium WebDriver, Pytest, Pipenv.
+* **Focus:** Page Object Model (POM) architecture, handling dynamic elements with Explicit Waits, and Pytest fixture management.
+
+📌 **[AutoJob Scraper](https://github.com/Nico-Kelly/job-scraper-selenium)**
+*A web scraping automation bot designed to fetch QA job postings and automatically log them into a Google Sheets CRM.*
+* **Tech:** Python, Selenium, Google Sheets API.
+* **Focus:** Advanced DOM traversal, data extraction, and third-party API integration.
+
+📌 **[Target Analyzer - API Gateway](https://github.com/Nico-Kelly/target-analyzer)**
+*An OSINT-simulating REST API acting as a Gateway to orchestrate external microservices and deploy security protocols.*
+* **Tech:** Node.js, Express, Supertest.
+* **Focus:** API integration (Fetch/Timeout controllers) and defensive backend architecture (Strict JSON Contracts & Error Handling).
 
 ---
 
