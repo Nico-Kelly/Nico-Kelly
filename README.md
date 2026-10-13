@@ -5,7 +5,7 @@ Based in Buenos Aires, Argentina 🇦🇷 | 🗣️ English C1
 
 I'm a **Software Development Student** (Universidad Nacional de Pilar) building a robust profile at the intersection of **Quality Assurance** and **Backend Architecture**. 
 
-My focus is on creating resilient REST APIs, implementing automated testing frameworks (TDD/POM), and mastering relational databases. I thrive on ensuring software quality from the database architecture up to the final user interface.
+My focus is on creating resilient REST APIs, implementing automated testing frameworks, and mastering relational databases. I thrive on ensuring software quality from the database architecture up to the final user interface.
 
 ---
 
