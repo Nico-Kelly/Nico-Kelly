@@ -1,6 +1,6 @@
 # Hi there, I'm Nicolas Kelly 👋
 
-### 👨‍💻 Backend Developer & QA Automation | Software Development Student
+### 👨‍💻 Backend Developer | Software Development Student
 📍 Buenos Aires, Argentina 🇦🇷 | 🗣️ English (C1)
 
 I'm a Software Development student at **Universidad Nacional de Pilar (UNPilar)** and a Backend Developer at **Usina Universitaria UNPilar**, where I build and maintain backend services for internal university systems.
